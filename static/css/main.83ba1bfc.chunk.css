@@ -1,0 +1,2 @@
+#main{margin-top:50px;text-align:center}.closebutton{font-size:20px}#overlay{position:fixed;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,.5)}#inneroverlay,#overlay{display:flex;align-items:center;justify-content:center}#inneroverlay{z-index:2;width:50%;height:120px;padding:10px;background:#fff}#content{text-align:center}
+/*# sourceMappingURL=main.83ba1bfc.chunk.css.map */
